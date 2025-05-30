@@ -1,4 +1,4 @@
-# TP1-ED-Ordenador-Universal
+# Ordenador-Universal
 
 **Trabalho Prático 1 – Estrutura de Dados**  
 Departamento de Ciência da Computação – Universidade Federal de Minas Gerais (UFMG)  
