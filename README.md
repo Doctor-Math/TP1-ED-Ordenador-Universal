@@ -1,9 +1,12 @@
 # Ordenador Universal
+![Feito em C++](https://img.shields.io/badge/C%2B%2B-Feito%20em-blue)
+
+![Badge Concluído](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 
 **Trabalho Prático 1 – Estrutura de Dados**  
 Departamento de Ciência da Computação – Universidade Federal de Minas Gerais (UFMG)  
 Autor: Matheus Soares dos Santos de Freitas  
-Email: masanfreitas@outlook.com
+E-mail: masanfreitas@outlook.com
 
 ## 🧩 Descrição
 
