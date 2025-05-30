@@ -61,11 +61,8 @@ Estatisticas operator+(const Estatisticas& e1, const Estatisticas& e2) {
     result.moves = e1.moves + e2.moves;
     result.cmps = e1.cmps + e2.cmps;
     result.cost = e1.cost + e2.cost;
-    
-    // Se quiser somar os outros (não muito claro seu propósito)
-    result.breaks = e1.breaks + e2.breaks;
 
-    // Deixe custos como nullptr ou implemente lógica de soma caso necessário
+    result.breaks = e1.breaks + e2.breaks;
 
     return result;
 };
