@@ -54,7 +54,7 @@ TP1/
 
 3. Execute o programa:
    ```bash
-   ./bin/tp1.out arquivo.txt
+   ./bin/tp1.out testes/arquivo.txt
    ```
 
 > **Nota:** O projeto foi desenvolvido em C++ usando o compilador G++ via WSL (Windows Subsystem for Linux).
